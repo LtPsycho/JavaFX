@@ -1,0 +1,55 @@
+Daikto ID; Parduotuve; Pavadinimas; Kiekis sandelyje
+P-231883; Victor Hickory; Piestukas; 842
+P-231888; Lucenzo; Piestukas; 942
+T-231886; Victor Hickory; Tusinukas; 875
+M-231890; Lucenzo; Markeris; 693
+M-231889; Lucenzo; Markeris; 287
+M-231889; Oliver Revilo; Markeris; 122
+M-231889; Lucenzo; Markeris; 123
+P-231883; Silk Teddy; Piestukas; 54
+L-231885; Oliver Revilo; Liniuote; 521
+P-231883; Victor Hickory; Piestukas; 23
+SA-231888; Oliver Revilo; Sasiuvinys; 67
+S-231884; Oliver Revilo; Segtuvas; 312
+SAV-33211; Lucenzo; Saverzele; 43
+T-231886; Silk Teddy; Tusinukas; 85
+TR-231887; Oliver Revilo; Trintukas; 127
+S-231884; Lucenzo; Segtuvas; 23
+T-231886; Silk Teddy; Tusinukas; 75
+SAV-33211; Silk Teddy; Saverzele; 245
+P-231883; Silk Teddy; Piestukas; 123
+SA-231888; Silk Teddy; Sasiuvinys; 57
+P-231888; Silk Teddy; Piestukas; 43
+SA-231888; Oliver Revilo; Sasiuvinys; 67
+M-231890; Lucenzo; Markeris; 61
+L-231885; Victor Hickory; Liniuote; 21
+SA-231888; Lucenzo; Sasiuvinys; 64
+TR-231887; Chunky Heels; Trintukas; 17
+SA-231888; Lucenzo; Sasiuvinys; 467
+S-231884; Chunky Heels; Segtuvas; 31
+L-231885; Lucenzo; Liniuote; 52
+M-231889; Lucenzo; Markeris; 28
+P-231888; Chunky Heels; Piestukas; 42
+SAV-33211; Lucenzo; Saverzele; 525
+S-231884; Chunky Heels; Segtuvas; 23
+TR-231887; Victor Hickory; Trintukas; 121
+SAV-33211; Silk Teddy; Saverzele; 245
+SAV-33211; Silk Teddy; Saverzele; 42
+M-231890; Silk Teddy; Markeris; 63
+L-231885; Oliver Revilo; Liniuote; 512
+M-231890; Lucenzo; Markeris; 93
+M-231890; Victor Hickory; Markeris; 33
+P-231888; Lucenzo; Piestukas; 12
+S-231884; Silk Teddy; Segtuvas; 313
+M-231889; Silk Teddy; Markeris; 87
+M-231889; Oliver Revilo; Markeris; 231
+S-231884; Silk Teddy; Segtuvas; 323
+SAV-33211; Oliver Revilo; Saverzele; 231
+T-231886; Lucenzo; Tusinukas; 35
+M-231889; Silk Teddy; Markeris; 253
+SA-231888; Oliver Revilo; Sasiuvinys; 123
+TR-231887; Silk Teddy; Trintukas; 312
+M-231890; Lucenzo; Markeris; 23
+DSAD; DAS; DSAD; 5
+t; tsa; saf; 5
+t; t; t; 5

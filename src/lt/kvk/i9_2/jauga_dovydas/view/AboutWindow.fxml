@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="200.0" prefWidth="200.0" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lt.kvk.i9_2.jauga_dovydas.view.WindowController">
+   <children>
+      <Text layoutX="27.0" layoutY="88.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Program was made by: Dovydas Jauga. I9-2 KVK. 2016" wrappingWidth="146.13671875" />
+      <Button fx:id="button" layoutX="74.0" layoutY="150.0" mnemonicParsing="false" onMouseClicked="#closeWindow" onMouseEntered="#setTextBold" onMouseExited="#resetText" text="OK" />
+   </children>
+</AnchorPane>

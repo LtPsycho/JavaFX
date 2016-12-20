@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="500.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lt.kvk.i9_2.jauga_dovydas.view.DataOverviewController">
+   <children>
+      <TableView fx:id="daiktasTable" onSort="#printInfo" prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <columns>
+            <TableColumn fx:id="idColumn" prefWidth="128.0" text="ID" />
+            <TableColumn fx:id="parduotuveColumn" minWidth="5.0" prefWidth="164.0" text="Parduotuve" />
+            <TableColumn fx:id="pavadinimasColumn" prefWidth="202.0" text="Pavadinimas" />
+            <TableColumn fx:id="kiekisColumn" prefWidth="54.0" text="Kiekis" />
+            <TableColumn fx:id="kiekisUzsakColumn" prefWidth="118.0" text="Uzsakymu Kiekis" />
+            <TableColumn fx:id="kainaColumn" prefWidth="14.0" text="Kaina" />
+            <TableColumn fx:id="spalvaColumn" prefWidth="105.0" text="Spalva" />
+         </columns>
+         <columnResizePolicy>
+            <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+         </columnResizePolicy>
+      </TableView>
+      <TextField layoutX="733.0" layoutY="488.0" />
+   </children>
+</AnchorPane>

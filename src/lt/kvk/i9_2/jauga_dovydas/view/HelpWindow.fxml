@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Accordion?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.layout.StackPane?>
+
+<Accordion maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1">
+  <panes>
+    <TitledPane animated="false" expanded="false" text="Quiting">
+      <content>
+        <StackPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+               <children>
+                  <TextArea editable="false" layoutX="27.0" layoutY="27.0" prefHeight="295.0" prefWidth="520.0" text="To quit ether press X or File&gt;Close" />
+               </children></StackPane>
+      </content>
+    </TitledPane>
+    <TitledPane animated="false" text="Setting File">
+      <content>
+        <StackPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+               <children>
+                  <TextArea editable="false" layoutX="18.0" layoutY="27.0" prefHeight="295.0" prefWidth="520.0" text="To set file you have to use File&gt;Set File" />
+               </children></StackPane>
+      </content>
+    </TitledPane>
+      <TitledPane animated="false" text="Naudotojo vadovas">
+         <content>
+            <StackPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+               <children>
+                  <TextArea editable="false" layoutX="18.0" layoutY="27.0" prefHeight="295.0" prefWidth="520.0" text="Programa patenkina minimalius vartotojo poreikius. Naudojant Set File galima nustatyti pradinį failą. &#10;Programa galima uždaryti dviem būdais meniu pasirinkus Close arba paspaudus „X“ mygtuką. &#10;Pagalba suteikiama pasirinkus Help meniu pasirinkimą, o informacija apie kūrėją - About pasirinkimą.&#10;Komponentų aprašas:&#10;•&#9;Text – mažas teksto laukelis.&#10;•&#9;TextArea – didelis teksto vaizdavimo langas. Gali būti redaguojamas.&#10;•&#9;Button – mygtukas, prie kurio gali būti pridėtas įvykis, vykdomi įvairūs veiksmai po paspaudimo&#10;•&#9;Meniu – meniu stulpelio komponentas.&#10;•&#9;MeniuItem – meniu stulpelio subkategorijos pasirinkimo mygtukas.&#10;" />
+               </children>
+            </StackPane>
+         </content>
+      </TitledPane>
+  </panes>
+</Accordion>
